@@ -1,5 +1,6 @@
+export = main;
 
-export = (gameMainParam: g.GameMainParameterObject) => {
+function main(gameMainParam: g.GameMainParameterObject): void {
   const scene = new g.Scene({ game: g.game });
   scene.onLoad.add(loaded);
   g.game.pushScene(scene);

@@ -67,6 +67,11 @@
 			"path": "image/shot.png",
 			"width": 16,
 			"height": 16
+		},
+		"usingStartParam": {
+			"type": "script",
+			"path": "script/usingStartParam.js",
+			"global": true
 		}
 	}
 }
