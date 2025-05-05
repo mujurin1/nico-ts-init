@@ -3,3 +3,5 @@
 
 上記のリンクはニコ生ゲームを作るための解説が書いてあるWeb本です。  
 まだ読んでいない方は本を読んでからご利用ください。
+
+`akashic init -t github:mujurin1/nico-ts-init -y`
